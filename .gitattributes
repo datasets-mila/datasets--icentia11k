@@ -9,3 +9,7 @@
 *.py annex.largefiles=nothing
 *.sh annex.largefiles=nothing
 
+scripts/* annex.largefiles=nothing
+
+/icentia11k/* annex.largefiles=anything
+/af04abfe9a3c96b30e5dd029eb185e19a7055272.torrent/* annex.largefiles=anything
