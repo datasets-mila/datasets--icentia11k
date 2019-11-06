@@ -1,1 +1,3 @@
 0b53a51d-89ff-4be7-b81b-8f1edf2a8c34 ortizgas@login-1.server.mila.quebec:/network/datasets/icentia11k timestamp=1569426536.493495s
+5ae9154b-0523-4e2c-aade-aa7275d87495 ortizgas@login-1.server.mila.quebec:/network/datasets/cifar10 timestamp=1569037738.2835s
+62dc8295-8d77-49a5-aa0a-98f38fb43226 ortizgas@login-1.server.mila.quebec:/network/datasets/cifar10/var/cifar10_torchvision timestamp=1569039227.779457s
